@@ -1,0 +1,108 @@
+h3{
+  text-align: center;
+  margin-bottom:4%;
+}
+p{
+  font-family: "Montserrat-light";
+}
+
+#home{
+  padding: 7% 13%;
+  color:#fff;
+  font-size: 2.2;
+  line-height: 1.5;
+  font-family: monserat-bold;
+}
+#features{
+  padding: 4% 13%;
+  background-color:#fff;
+  line-height: 1.7;
+  position: relative;
+  font-size: 1.07rem;
+}
+#testimonials{
+  text-align: center;
+  color: #fff;
+  padding: 3% 12%;
+}
+.testimonial-image{
+  width: 50%;
+  height: 90%;
+  margin: 10px;
+  border-radius: 60%;
+}
+.testimonial-h3{
+  margin: 1px;
+}
+.text-image{
+  height: 50%;
+  width: 40%;
+  border-radius: 100%;
+}
+.anchor{
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-left: 1rem;
+
+}
+.anchor:hover{
+  color: cyan;
+
+}
+
+  /*
+  width: 60%;
+  position:absolute;
+  right: 30%;
+  top:10%;
+  margin-bottom: 80px;
+*/
+
+.who{
+  font-weight: 100;
+}
+.custom-p{
+  font-size: 1.4rem;
+}
+.img-class{
+  border-radius: ;
+}
+.carousel{
+  padding: 7% 13%;
+}
+.missy{
+  background-color: blue;
+}
+.icon{
+  color: #fff;
+font-size: 1.8rem;
+  font-weight: bold;
+  margin-left: 1rem;
+  margin-left: 50%;
+}
+.num{
+  font-size: 50px;
+}
+
+.font{
+  margin-right: 1rem;
+}
+
+#footer{
+  text-align: center;
+  background-color: #ffac41;
+  padding: 2% 13%;
+}
+.copyright{
+  color: #fff;
+}
+.social-icons{
+  margin: 20px 10px;
+  text-decoration: none;
+}
+@media (max-width:1028px){
+  .img-class{
+    width: 240px;
+  }
+}
